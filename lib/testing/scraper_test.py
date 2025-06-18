@@ -1,7 +1,5 @@
 from bs4 import BeautifulSoup, element
-
-from lib.Scraper import Scraper
-
+from Scraper import Scraper
 
 class Test_Scraper:
     '''Scraper in Scraper.py'''
